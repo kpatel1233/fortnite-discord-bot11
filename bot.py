@@ -3,11 +3,11 @@ import asyncio
 import requests
 import os
 
-BOT_TOKEN = os.environ['BOT_TOKEN']
+BOT_TOKEN = os.environ['GdziX-A6pVG3o6-y5MPr8L1anIVPtOKM']
 FORTNITE_API_TOKEN = os.environ['FORTNITE_API_TOKEN']
 COMMAND_PREFIX = '#'
 
-client = discord.Client()
+client = discord.Client(597518391133339678)
 
 @client.event
 async def on_ready():

@@ -4,7 +4,7 @@ import requests
 import os
 
 BOT_TOKEN = os.environ['GdziX-A6pVG3o6-y5MPr8L1anIVPtOKM']
-FORTNITE_API_TOKEN = os.environ['FORTNITE_API_TOKEN']
+FORTNITE_API_TOKEN = os.environ['e6f9cdcc-cb10-4278-b332-2e1088616d65']
 COMMAND_PREFIX = '#'
 
 client = discord.Client(597518391133339678)

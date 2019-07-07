@@ -74,4 +74,4 @@ def fortnite_tracker_api(platform, nickname):
   else:
     return False
 
-client.run(BOT_TOKEN)
+client.run(NTk3NTE4MzkxMTMzMzM5Njc4.XSJhTA.W4J1unVf82XM5gwGDHWcNqz6YPE)
